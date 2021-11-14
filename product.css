@@ -1,0 +1,17 @@
+
+.product{
+    display:flex;
+    flex-direction:coloumn;
+    margin: 10px;
+}
+.product_price{
+    margin-top: 5px;
+}
+.product >img{
+    width: 100x;
+    max-height: 200px;
+}
+.product >button{
+border: 1px solid;
+}
+
